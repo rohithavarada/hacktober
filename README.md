@@ -1,2 +1,2 @@
-# hacktober
-the first hacktober fest at gvp
+# Hacktober
+The first hacktober fest at gvp.
